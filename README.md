@@ -3,6 +3,7 @@
 SONO is a lightweight URL shortener designed to simplify the process of creating, managing, and tracking shortened URLs. Developed with functionality and efficiency in mind, SONO provides a range of features for users without unnecessary complexity.
 
 ![plot](./public/landing.jpeg)
+![plot](./public/analytics.jpeg)
 
 ## Features
 
